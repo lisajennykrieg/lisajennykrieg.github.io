@@ -26,7 +26,7 @@ share: false
 ### Other output
 
 - Krieg L.J., Berning, E.M., Colombo, G., Azzi, M., and Hardon, A. (2016). 
-  Visualising Erowid. A data driven anthropological research on drugs. @[http://chemicalyouth.org/visualising-erowid/]
+  Visualising Erowid. A data driven anthropological research on drugs. @[http://chemicalyouth.org/visualising-erowid/][erowid]
 
 - Krieg, L.J. (2016). [On Instagram, a Journey From Bear to Bile][bear]. In Sapiens – Anthropology/Everything Human.
 
