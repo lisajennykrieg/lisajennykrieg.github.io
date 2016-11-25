@@ -14,12 +14,13 @@ and human-technology-animal-environment relations. When I'm not thinking or writ
 walking my dog Luki, playing with my little daughter Aya, bouldering, or reading a book by my favorite authors [David Mitchell][david], 
 [Dan Simmons][dan], or [Tonke Dragt][tonke].
 
-I recently submitted my PhD thesis on social memory in Germany at the [Anthropology Department][utrechtanthro] 
-at Utrecht University.
-Since May 2015, I'm also working as a postdoctoral researcher at the [Chemical Youth][chem] project at the 
-[Anthropology Department][uvaanthro] of the University of Amsterdam with [Prof. Anita Hardon][anita].
-In October 2016, I'll be joining the research group of [Prof. Julia Verne][verne] at the [Department of Geography][geobonn]
+Since October 2016, I'm part of the research group of [Prof. Julia Verne][verne] at the [Department of Geography][geobonn]
 of the University of Bonn.
+In October 2016, I also defended my PhD thesis on social memory in Germany at the [Anthropology Department][utrechtanthro] 
+at Utrecht University.
+Since May 2015, and until the end of 2016, I'm also working as a postdoctoral researcher at the [Chemical Youth][chem] 
+project at the [Anthropology Department][uvaanthro] of the University of Amsterdam with [Prof. Anita Hardon][anita].
+
 
 
 

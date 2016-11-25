@@ -8,22 +8,23 @@ comments: false
 share: false
 ---
 
-I am currently transitioning between various anthropological research projects.
+I am currently involved in several research projects.
 
-In May, I submitted my PhD thesis on social memory in Germany at the [Anthropology Department][utrechtanthro] at Utrecht University,
-which I'm planning to defend on the 28th of October 2016. For my PhD, I conducted fieldwork with young adults in Cologne, in two
-settings of Holocaust education: at the museum [NS-DOK][nsdok], and at an evening school.
+Since October 2016, I'm working as a postdoctoral researcher in the research group of [Prof. Julia Verne][verne] 
+at the [Department of Geography][geobonn] of the University of Bonn, which focuses on translocality, digitality, 
+and human-environment relations in the 
+Western Indian Ocean. I'll be researching the trade with endangered animals
+and the role of the internet, combining ethnographic research and digital methods.
 
-Since May 2015, I'm also working as a postdoctoral researcher at the [Chemical Youth][chem] project at the 
-[Anthropology Department][uvaanthro] of the University of Amsterdam with [Prof. Anita Hardon][anita]. My work there explores
-the possibilities of integrating digital and computational methods
+Since May 2015, and until the end of 2016, I'm also working as a postdoctoral researcher at the [Chemical Youth][chem] 
+project at the [Anthropology Department][uvaanthro] of the University of Amsterdam with [Prof. Anita Hardon][anita]. 
+My work there explores the possibilities of integrating digital and computational methods
 with ethnography, and is inspired by cooperations with the [DMI Amsterdam][dmi], the [Utrecht Data School][uds], 
 the [Density Design Lab Milan][density], and [Calibro Design Lab][calibro].
 
-In October 2016, I'll be joining the research group of [Prof. Julia Verne][verne] at the [Department of Geography][geobonn]
-of the University of Bonn, which focuses on translocality, digitality, and human-environment relations in the 
-Western Indian Ocean. I'll be conducting a research project on the illegal trade with endangered marine fauna
-and the role of the internet, combining ethnographic research and digital methods.
+In October 2016, I defended my PhD thesis on social memory in Germany at the [Anthropology Department][utrechtanthro] at 
+Utrecht University. For my PhD, I conducted fieldwork with young adults in Cologne, in two
+settings of Holocaust education: at the museum [NS-DOK][nsdok], and at an evening school.
 
 
 
