@@ -10,7 +10,7 @@ share: false
 
 ### Peer-reviewed publications
 
-- Krieg, Lisa J. 2016. [From MDMA to Lady Gaga: Expertise and Contribution Behavior of Editing Communities on Wikipedia][procedia].
+- Dijkstra, Louis J. and Lisa J. Krieg, 2016. [From MDMA to Lady Gaga: Expertise and Contribution Behavior of Editing Communities on Wikipedia][procedia].
   In Procedia Computer Science (101): 96-106.
 
 - Krieg, Lisa J. 2016. ['It was horrible, but we live now' - The experience of young German adults in everyday encounters with the Holocaust][focaal].
