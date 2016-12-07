@@ -10,6 +10,9 @@ share: false
 
 ### Peer-reviewed publications
 
+- Krieg, Lisa J. 2016. [From MDMA to Lady Gaga: Expertise and Contribution Behavior of Editing Communities on Wikipedia][procedia].
+  In Procedia Computer Science (101): 96-106.
+
 - Krieg, Lisa J. 2016. ['It was horrible, but we live now' - The experience of young German adults in everyday encounters with the Holocaust][focaal].
   In Focaal Journal of Global and Historical Anthropology (74): 97-110.
   
@@ -47,4 +50,6 @@ share: false
 [jemms]: http://www.berghahnjournals.com/abstract/journals/jemms/7/2/jemms070207.xml
 {:target="_blank"}
 [kr]: https://kas.berkeley.edu/documents/Issue_101/5-Krieg.pdf
+{:target="_blank"}
+[procedia]: http://www.sciencedirect.com/science/article/pii/S1877050916326801
 {:target="_blank"}
