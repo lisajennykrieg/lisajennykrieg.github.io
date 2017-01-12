@@ -6,6 +6,8 @@ comments: true
 share: false
 ---
 
+Grade: 3.0/5.0
+
 After hearing so much about Haruki Murakami as one of the most well-known representative of my favorite genre of magic realism, 
 and as he is also one of the authors my favorite writer David Mitchell claims as a major influence, it was about time I read one
 of Murakami's novels. 
@@ -59,6 +61,6 @@ To sum it up: I enjoyed reading 'Kafka on the Shore'. It was exciting, had inter
 and a nice mix of magic and realism. It is however not very skillfully written, feels like there is no background story, 
 and the characters are shallow.
 
-Grade: 3.0/5.0
+
 
 

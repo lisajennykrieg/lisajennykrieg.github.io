@@ -6,6 +6,9 @@ comments: true
 share: false
 ---
 
+
+Grade: 3.0/5.0
+
 Sweet, funny, original, touching. This is a nice story about Rosemary and the interspecies crew of the tunneling ship Wayfarer. 
 Set on a difficult mission to bore a tunnel out in the rather hostile Toremi Ka space, thte Wayfarer crew has a long journey 
 ahead before they reach their destination.
@@ -23,5 +26,5 @@ species, and the whole interspecies thing, it's interesting. She pays attention 
 But it's not very deep. I pretty much forgot the book the day after I finished reading it, which is really not a 
 problem in and of itself, because you can't read heavy stuff all the time. 
 
-Grade: 3.0/5.0
+
 

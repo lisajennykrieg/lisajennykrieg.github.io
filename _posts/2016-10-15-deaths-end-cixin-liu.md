@@ -6,6 +6,9 @@ description: null
 comments: true
 share: false
 ---
+
+Grade: 3.5/5.0
+
 Finally, the translation is here! I was waiting for this book for over a year.... curiously and excitedly, wondering how he is going to finish off this incredible sci-fi trilogy. The first book was already so surprising, circling around the Trisolaris computer game and the Sophons, and the beginning of the Trisolaran plans to invade the earth, and the second book surprised by a completely new narrative and completely new human dilemmas: the Wallfacers and the Wallbreakers, set to destroy the Trisolaran plans. In the first two books Liu convinced and surprised repeatedly through his creativity and the ability to think over long time spans. The technological and societal developments he painted were fascinating and bizarre, but always well described.
 
 The same is true for the third book in the series. Death's End again surprises with a new narrative. Its plot can stand alone, it is not a repetition of the first two novels. It features its own dilemmas and developments. It describes the problem of dark forest deterrence: would a person really carry out the threat to destroy one's own world, if this is the only threat that holds the enemey at bay?
@@ -21,4 +24,4 @@ I liked it a lot that male and female characters are distributed over the novel 
 
 All in all, Liu pushed it maybe a bit too far in this book. More and more ideas, more and more projects, more and more surprising plot changes. There is a red thread, but it feels less coherent than the last two books. Or maybe I just got used to his style, and became more critical. Despite the criticism, his work is still a refreshing change from much other available (English) science fiction, and definitely worth reading.
 
-Grade: 3.5/5.0
+
