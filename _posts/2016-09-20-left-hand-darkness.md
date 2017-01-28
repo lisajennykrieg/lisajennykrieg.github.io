@@ -6,8 +6,6 @@ comments: true
 share: false
 ---
 
-Grade: 4.0/5.0
-
 After so many recommendations, I finally read a novel by Ursula Le Guin, a science fiction author who 
 has received quite some positive attention, also by recent anthropologists. I was also lead to her books 
 through my search for feminist sci-fi. After reading that 'The Left Hand of Darkness' received both the Hugo 
@@ -49,5 +47,5 @@ unusual.
 Today, the novel is just a very good sci-fi novel, which captures the difficulties and ambiguities of 
 interplanetary and intercultural relations in a very sensitive way. Today, I wouldn't really call the novel feminist.
 
-
+Grade: 4.0/5.0
  

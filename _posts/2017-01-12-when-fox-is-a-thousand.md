@@ -6,8 +6,6 @@ comments: true
 share: false
 ---
 
-Grade: 4.0/5.0
-
 This was a special read. A pretty unusual book. I would say it falls into the genre of magic realism, 
 and I chose it because I wanted to read a book with a more feminist approach, but mainly with a female 
 protagonist. This book definitely fulfilled these demands.
@@ -33,6 +31,7 @@ not going to become one of my favorite books. This is, however, simply due to my
 for books that span larger worlds and have stronger characters. When Fox is a Thousand is a tale, 
 more than anything else, and as such, it is masterfully written. 
 
+Grade: 4.0/5.0
 
 
 

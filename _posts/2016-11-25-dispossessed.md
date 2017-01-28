@@ -6,8 +6,6 @@ comments: true
 share: false
 ---
 
-Grade: 4.0/5.0
-
 This is a beautiful tale about the physicist Shevek, who travelled from Anarres to Urras, from a socialist dystopian/utopian
 world to a capitalist world with a big divide between rich and poor. The main theme, again, like in the "Left Hand of Darkness"
 is one of being a stranger. Both in his homeworld, and the world which he visits, Shevek does not feel at home.
@@ -39,7 +37,7 @@ Still, I was won over by Le Guin's style of writing, by her deep and complex cha
 of travel, change, and feeling strange, and by the convincing depiction of these two worlds, both moons to each other, 
 enemy planets inhabited by the same species living in such different ways.
 
-
+Grade: 4.0/5.0
 
 
 
