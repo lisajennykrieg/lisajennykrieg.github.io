@@ -13,10 +13,13 @@ I am currently involved in several research projects.
 Since October 2016, I'm working as a postdoctoral researcher in the research group of [Prof. Julia Verne][verne] 
 at the [Department of Geography][geobonn] of the University of Bonn, which focuses on translocality, digitality, 
 and human-environment relations in the 
-Western Indian Ocean. I'll be researching the trade with endangered animals
-and the role of the internet, combining ethnographic research and digital methods.
+Western Indian Ocean. I'll be researching the translocality of Phelsuma day geckos as an endangered species that enjoys
+protection, an invasive species that is fought, and a loved species that is cared for in terrariums. 
+Their various entanglements with humans and technology, with historical relations between the Indian Ocean and Europe,
+with genetical research and conservation biology, with the internet and globalized communities of Phelsuma friends
+will be in the focus of this project.
 
-Since May 2015, and until the end of 2016, I'm also working as a postdoctoral researcher at the [Chemical Youth][chem] 
+Until the end of 2016, I've been working as a postdoctoral researcher at the [Chemical Youth][chem] 
 project at the [Anthropology Department][uvaanthro] of the University of Amsterdam with [Prof. Anita Hardon][anita]. 
 My work there explores the possibilities of integrating digital and computational methods
 with ethnography, and is inspired by cooperations with the [DMI Amsterdam][dmi], the [Utrecht Data School][uds], 

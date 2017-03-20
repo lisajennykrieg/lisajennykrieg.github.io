@@ -9,7 +9,7 @@ image:
   creditlink: 
 ---
 
-I'm an anthropologist currently located in Amsterdam, The Netherlands. I'm interested in digital anthropology, computational methods,
+I'm an anthropologist currently located in Bonn, Germany. I'm interested in digital anthropology, computational methods,
 and human-technology-animal-environment relations. When I'm not thinking or writing, I can probably be found 
 walking my dog Luki, playing with my little daughter Aya, bouldering, or reading a book by my favorite authors [David Mitchell][david], 
 [Dan Simmons][dan], or [Tonke Dragt][tonke].
@@ -18,7 +18,7 @@ Since October 2016, I'm part of the research group of [Prof. Julia Verne][verne]
 of the University of Bonn.
 In October 2016, I also defended my PhD thesis on social memory in Germany at the [Anthropology Department][utrechtanthro] 
 at Utrecht University.
-Since May 2015, and until the end of 2016, I'm also working as a postdoctoral researcher at the [Chemical Youth][chem] 
+Until the end of 2016, I've been working as a postdoctoral researcher at the [Chemical Youth][chem] 
 project at the [Anthropology Department][uvaanthro] of the University of Amsterdam with [Prof. Anita Hardon][anita].
 
 
