@@ -44,7 +44,7 @@ Zenodo. http://doi.org/10.5281/zenodo.231035
 
 
 <!-- Links -->
-[github_wikipeida]: http://github.com/calibro/chemical-wiki
+[github_wikipedia]: http://github.com/calibro/chemical-wiki
 {:target="_blank"}
 [wikipedia]: http://chemicalyouth.org/wikipedia/
 {:target="_blank"}
