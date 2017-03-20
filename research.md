@@ -8,8 +8,6 @@ comments: false
 share: false
 ---
 
-I am currently involved in several research projects.
-
 Since October 2016, I'm working as a postdoctoral researcher in the research group of [Prof. Julia Verne][verne] 
 at the [Department of Geography][geobonn] of the University of Bonn, which focuses on translocality, digitality, 
 and human-environment relations in the 
