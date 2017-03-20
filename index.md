@@ -4,7 +4,7 @@ excerpt: "Lisa's Personal Website"
 title: "About me"
 tags: [Academic website, research, digital anthropology, lisa jenny krieg]
 image:
-  feature: headerlisa1.jpg
+  feature: gecko1.jpg
   credit: 
   creditlink: 
 ---
