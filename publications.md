@@ -28,7 +28,12 @@ share: false
 
 ### Other output
 
-- Krieg L.J., Berning, E.M., Colombo, G., Azzi, M., and Hardon, A. (2016). 
+- Azzi, M., L. Krieg, G. Colombo, E.M. Berning, G. Uboldi, L. Dijkstra, N. Sanchez-Querubin, 
+A. Hupli, and A. Hardon (2017). Chemical knowledge. Establishing and stabilizing knowledge of psychedelics and designer drugs on Wikipedia. 
+@[http://chemicalyouth.org/wikipedia][wikipedia] @[github.com/calibro/chemical-wiki][github_wikipedia]. 
+Zenodo. http://doi.org/10.5281/zenodo.231035
+
+- Krieg, L.J., E.M. Berning, G. Colombo, M. Azzi, and A. Hardon (2016). 
   Visualising Erowid. A data driven anthropological research on drugs. @[http://chemicalyouth.org/visualising-erowid/][erowid]
 
 - Krieg, L.J. (2016). [On Instagram, a Journey From Bear to Bile][bear]. In Sapiens – Anthropology/Everything Human.
@@ -39,6 +44,10 @@ share: false
 
 
 <!-- Links -->
+[github_wikipeida]: http://github.com/calibro/chemical-wiki
+{:target="_blank"}
+[wikipedia]: http://chemicalyouth.org/wikipedia/
+{:target="_blank"}
 [erowid]: http://chemicalyouth.org/visualising-erowid/
 {:target="_blank"}
 [bear]: http://www.sapiens.org/technology/animal-trafficking-instagram/
