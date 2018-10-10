@@ -11,15 +11,17 @@ share: false
 Since October 2016, I'm working as a postdoctoral researcher in the research group of [Prof. Julia Verne][verne] 
 at the [Department of Geography][geobonn] of the University of Bonn, which focuses on translocality, digitality, 
 and human-environment relations in the 
-Western Indian Ocean. I'll be researching the translocality of Phelsuma day geckos as an endangered species that enjoys
+Western Indian Ocean. 
+My research here focuses on the translocality of Phelsuma day geckos as an endangered species that enjoys
 protection, an invasive species that is fought, and a loved species that is cared for in terrariums. 
 Their various entanglements with humans and technology, with historical relations between the Indian Ocean and Europe,
-with genetical research and conservation biology, with the internet and globalized communities of Phelsuma friends
-will be in the focus of this project.
+with genetical research and conservation biology, with the internet and globalized communities of Phelsuma friends is in the focus of this project. I conduct ethnographic fieldwork with the German terrarium
+community, with scientists from different countries working on Phelsuma day geckos, and on Mauritius and
+La Réunion.
 
 Until the end of 2016, I've been working as a postdoctoral researcher at the [Chemical Youth][chem] 
 project at the [Anthropology Department][uvaanthro] of the University of Amsterdam with [Prof. Anita Hardon][anita]. 
-My work there explores the possibilities of integrating digital and computational methods
+My work there explored the possibilities of integrating digital and computational methods
 with ethnography, and is inspired by cooperations with the [DMI Amsterdam][dmi], the [Utrecht Data School][uds], 
 the [Density Design Lab Milan][density], and [Calibro Design Lab][calibro].
 
@@ -41,13 +43,13 @@ settings of Holocaust education: at the museum [NS-DOK][nsdok], and at an evenin
 [uvaanthro]: http://www.uva.nl/en/disciplines/anthropology
 {:target='_blank'}
 
-[anita]: http://www.uva.nl/over-de-uva/organisatie/medewerkers/content/h/a/a.p.hardon/a.p.hardon.html
+[anita]: http://www.uva.nl/profiel/h/a/a.p.hardon/a.p.hardon.html
 {:target='_blank'}
 
 [dmi]: https://wiki.digitalmethods.net/Dmi/WebHome
 {:target='_blank'}
 
-[uds]: http://www.dataschool.nl/en/home-2/
+[uds]: https://dataschool.nl/?lang=en
 {:target="_blank"}
 
 [density]: http://www.densitydesign.org/
@@ -56,7 +58,7 @@ settings of Holocaust education: at the museum [NS-DOK][nsdok], and at an evenin
 [calibro]: http://calib.ro/
 {:target="_blank"}
 
-[verne]: https://www.geographie.uni-bonn.de/forschung/wissenschaftliche-bereiche/geographische-entwicklungsforschung/staff/prof.-dr.-julia-verne-1
+[verne]: https://www.geographie.uni-bonn.de/research/rg/rg-verne?set_language=en
 {:target="_blank"}
 
 [geobonn]: https://www.geographie.uni-bonn.de/

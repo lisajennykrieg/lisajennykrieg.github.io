@@ -8,7 +8,21 @@ comments: false
 share: false
 ---
 
+### Current writing/ work in progress
+
+- Krieg, L. J. <u>Gecko circulations, species becomings, and value transformation in Europe and the Western Indian Ocean between the 19th and the 20th century: the Phelsuma day gecko in science, terraristics, and nature conservation</u>. Pre-circulated paper for the Workshop: __Migrations, Crossings, Unintended Destinations: Ecological Transfers across the Indian Ocean 1850-1920__, Rachel-Carson-Center, Munich
+
+- Krieg, L. J. <u>Translating conservation biology into gardening advice: care and its limits in the gecko garden refuges in Manapany-les-Bains, La Réunion</u>.
+Part of a special issue on 'animal geographies' in the Geographische Zeitschrift.
+
+
 ### Peer-reviewed publications
+
+- Krieg, L. J. (forthcoming). <u>Elusive encounters with geckos, or, how to cross the human-reptile divide</u>. In Annalisa Colombino and Jan-Erik Steinkrüger (eds), Methods in Human-Animal Studies: The Questions of the Animals in practice. New York: Routledge.
+
+- Krieg, L. J. 2018. [Entangling (non)human isolation and connectivity: island nature conservation on Ile aux Aigrettes, Mauritius][iaa]. Island Studies Journal, (preprint).
+
+- Krieg, L. J., Berning, M., & Hardon, A. 2017. [Anthropology with algorithms? An exploration of online drug knowledge using digital methods][algorithms]. Medicine Anthropology Theory, 4(3), 21–52.
 
 - Dijkstra, Louis J. and Lisa J. Krieg, 2016. [From MDMA to Lady Gaga: Expertise and Contribution Behavior of Editing Communities on Wikipedia][procedia].
   In Procedia Computer Science (101): 96-106.
@@ -27,6 +41,8 @@ share: false
 
 
 ### Other output
+
+- Krieg, Lisa J. (2018). Horizonte der Fürsorge. Warum eine Ethnologin Gecko-Mensch-Beziehungen erforscht (engl: _Horizons of care. Why an anthropologist researches human-gecko-relations_). In Der Taggecko. Informationen der Interessengruppe Phelsuma 102(2): 20-22.
 
 - Azzi, M., L. Krieg, G. Colombo, E.M. Berning, G. Uboldi, L. Dijkstra, N. Sanchez-Querubin, 
 A. Hupli, and A. Hardon (2017). Chemical knowledge. Establishing and stabilizing knowledge of psychedelics and designer drugs on Wikipedia. 
@@ -61,4 +77,8 @@ Zenodo. http://doi.org/10.5281/zenodo.231035
 [kr]: https://kas.berkeley.edu/documents/Issue_101/5-Krieg.pdf
 {:target="_blank"}
 [procedia]: http://www.sciencedirect.com/science/article/pii/S1877050916326801
+{:target="_blank"}
+[algorithms]: http://medanthrotheory.org/read/8347/anthropology-with-algorithms
+{:target="_blank"}
+[iaa]: https://doi.org/10.24043/isj.68
 {:target="_blank"}
