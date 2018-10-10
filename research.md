@@ -16,15 +16,15 @@ My research here focuses on the translocality of Phelsuma day geckos as an endan
 protection, an invasive species that is fought, and a loved species that is cared for in terrariums. 
 
 ![mauri1](/images/mauri1.jpg){: .lisas-image}
-![reunion1](/images/reunion1.jpg){: .lisas-image}
+![reunion1](/images/reunion1.JPG){: .lisas-image}
 
 Their various entanglements with humans and technology, with historical relations between the Indian Ocean and Europe,
 with genetical research and conservation biology, with the internet and globalized communities of Phelsuma friends is in the focus of this project. I conduct ethnographic fieldwork with the German terrarium
 community, with scientists from different countries working on Phelsuma day geckos, and on Mauritius and
 La Réunion.
 
-![museum](/images/museum.jpg){: .lisas-image}
-![terra](/images/terra.jpg){: .lisas-image}
+![museum](/images/museum.JPG){: .lisas-image}
+![terra](/images/terra.JPG){: .lisas-image}
 
 
 Until the end of 2016, I've been working as a postdoctoral researcher at the [Chemical Youth][chem] 
