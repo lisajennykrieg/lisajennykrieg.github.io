@@ -14,16 +14,29 @@ and human-environment relations in the
 Western Indian Ocean. 
 My research here focuses on the translocality of Phelsuma day geckos as an endangered species that enjoys
 protection, an invasive species that is fought, and a loved species that is cared for in terrariums. 
+
+![mauri1](/images/mauri1.jpg){: .lisas-image}
+![reunion1](/images/reunion1.jpg){: .lisas-image}
+
 Their various entanglements with humans and technology, with historical relations between the Indian Ocean and Europe,
 with genetical research and conservation biology, with the internet and globalized communities of Phelsuma friends is in the focus of this project. I conduct ethnographic fieldwork with the German terrarium
 community, with scientists from different countries working on Phelsuma day geckos, and on Mauritius and
 La Réunion.
+
+![museum](/images/museum.jpg){: .lisas-image}
+![terra](/images/terra.jpg){: .lisas-image}
+
 
 Until the end of 2016, I've been working as a postdoctoral researcher at the [Chemical Youth][chem] 
 project at the [Anthropology Department][uvaanthro] of the University of Amsterdam with [Prof. Anita Hardon][anita]. 
 My work there explored the possibilities of integrating digital and computational methods
 with ethnography, and is inspired by cooperations with the [DMI Amsterdam][dmi], the [Utrecht Data School][uds], 
 the [Density Design Lab Milan][density], and [Calibro Design Lab][calibro].
+
+
+![erowid](/images/erowid1.png){: .lisas-image}
+![wikipedia](/images/wikipedia.png){: .lisas-image}
+
 
 In October 2016, I defended my PhD thesis on social memory in Germany at the [Anthropology Department][utrechtanthro] at 
 Utrecht University. For my PhD, I conducted fieldwork with young adults in Cologne, in two
