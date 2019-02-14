@@ -12,8 +12,10 @@ share: false
 
 - Krieg, L. J. <u>Gecko circulations, species becomings, and value transformation in Europe and the Western Indian Ocean between the 19th and the 20th century: the Phelsuma day gecko in science, terraristics, and nature conservation</u>. Pre-circulated paper for the Workshop: __Migrations, Crossings, Unintended Destinations: Ecological Transfers across the Indian Ocean 1850-1920__, Rachel-Carson-Center, Munich
 
-- Krieg, L. J. <u>Translating conservation biology into gardening advice: care and its limits in the gecko garden refuges in Manapany-les-Bains, La Réunion</u>.
-Part of a special issue on 'animal geographies' in the Geographische Zeitschrift.
+- Krieg, L. J. <u>Caring for strangers. Alterity, alliances, and reptile conservation in the “gecko garden refuges” in Manapany-les-Bains, La Réunion</u>.
+Submitted to the editors of a special issue on 'animal geographies' in the *Geographische Zeitschrift*.
+
+- Krieg, L. J. and Poerting, Julia. <u>Digital methods in difficult ethnographic fields: studying knowledge flows as complex networks through a Facebook analysis</u>. (Under review at *Zeitschrift für digitale Geisteswissenschaften*).
 
 
 ### Peer-reviewed publications
