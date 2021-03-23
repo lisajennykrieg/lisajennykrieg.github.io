@@ -8,19 +8,18 @@ comments: false
 share: false
 ---
 
-### Current writing/ work in progress
-
-- Krieg, L. J. <u>Gecko circulations, species becomings, and value transformation in Europe and the Western Indian Ocean between the 19th and the 20th century: the Phelsuma day gecko in science, terraristics, and nature conservation</u>. Pre-circulated paper for the Workshop: __Migrations, Crossings, Unintended Destinations: Ecological Transfers across the Indian Ocean 1850-1920__, Rachel-Carson-Center, Munich
-
-- Krieg, L. J. <u>Caring for strangers. Alterity, alliances, and reptile conservation in the “gecko garden refuges” in Manapany-les-Bains, La Réunion</u>.
-Submitted to the editors of a special issue on 'animal geographies' in the *Geographische Zeitschrift*.
-
-- Krieg, L. J. and Poerting, Julia. <u>Digital methods in difficult ethnographic fields: studying knowledge flows as complex networks through a Facebook analysis</u>. (Under review at *Zeitschrift für digitale Geisteswissenschaften*).
-
 
 ### Peer-reviewed publications
 
-- Krieg, L. J. (forthcoming). <u>Elusive encounters with geckos, or, how to cross the human-reptile divide</u>. In Annalisa Colombino and Jan-Erik Steinkrüger (eds), Methods in Human-Animal Studies: The Questions of the Animals in practice. New York: Routledge.
+- Krieg, Lisa J. (in press). When Gecko Tails Travel from Island Forests to Laboratories: From Materiality to Information in Scientific Cargo, In: Burkhard Schnepel und Julia Verne (eds), Cargoes: The Materiality of Connectivity in Motion Across the Indian Ocean. Athens, Ohio: Ohio University Press.
+
+- Poerting, Julia, Julia Verne und Lisa J. Krieg. [Gefährliche Begegnungen. Posthumanistische Ansätze in der technologischen Neuaushandlung des Zusammenlebens von Mensch und Wildtier][geo_gefahr]. Geographische Zeitschrift 108 (3): 153-175.
+
+- Krieg, Lisa J. 2020. [Endangered, invasive, pet, commodity. Gecko circulations and value transformation in the Western Indian Ocean][globenv]. Global Environment 13: 195-223.
+
+- Krieg, Lisa J. 2020 [Caring for strangers. Alterity, alliances, and reptile conservation in the “gecko garden refuges” in Manapany-les-Bains, La Réunion][geo_str]. Geographische Zeitschrift 108 (3): 176-196.
+
+- Krieg, Lisa J. and Poerting, Julia 2020. [Digital methods in difficult ethnographic fields: studying knowledge flows as complex networks through a Facebook analysis][zfdg]. Zeitschrift für digitale Geisteswissenschaften.
 
 - Krieg, L. J. 2018. [Entangling (non)human isolation and connectivity: island nature conservation on Ile aux Aigrettes, Mauritius][iaa]. Island Studies Journal, (preprint).
 
@@ -62,6 +61,14 @@ Zenodo. http://doi.org/10.5281/zenodo.231035
 
 
 <!-- Links -->
+[geo_gefahr]: https://elibrary.steiner-verlag.de/article/10.25162/gz-2020-0006
+{:target="_blank"}
+[globenv]: https://www.ingentaconnect.com/content/whp/ge/2020/00000013/00000001/art00007
+{:target="_blank"}
+[geo_str]: https://elibrary.steiner-verlag.de/article/10.25162/gz-2020-0002
+{:target="_blank"}
+[zfdg]: https://zfdg.de/2020_001
+{:target="_blank"}
 [github_wikipedia]: http://github.com/calibro/chemical-wiki
 {:target="_blank"}
 [wikipedia]: http://chemicalyouth.org/wikipedia/

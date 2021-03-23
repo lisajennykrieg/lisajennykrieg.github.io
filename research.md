@@ -8,11 +8,9 @@ comments: false
 share: false
 ---
 
-Since October 2016, I'm working as a postdoctoral researcher in the research group of [Prof. Julia Verne][verne] 
-at the [Department of Geography][geobonn] of the University of Bonn, which focuses on translocality, digitality, 
-and human-environment relations in the 
-Western Indian Ocean. 
-My research here focuses on the translocality of Phelsuma day geckos as an endangered species that enjoys
+Since October 2016, I'm working as a postdoctoral researcher in the research group of [Prof. Julia Verne][verne] on translocal human-environment-technology relations in the 
+Western Indian Ocean. Since 2019, the project is funded by the DFG.
+My research focuses on the translocality of Phelsuma day geckos as an endangered species that enjoys
 protection, an invasive species that is fought, and a loved species that is cared for in terrariums. 
 
 ![mauri1](/images/mauri1.jpg){: .lisas-image}
