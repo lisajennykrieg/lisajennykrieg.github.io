@@ -9,18 +9,21 @@ image:
   creditlink: 
 ---
 
-I'm an anthropologist interested in human-technology-animal-environment relations. I'm currently conducting research in the DFG-funded project "Gecko Translocalities", which explores the realtionships between humans and Phelsuma day geckos in the terraristics and herpetology community in Germany, and with nature conservationists on La Réunion and Mauritius. When I do not write or ask people stupid questions, I can be found playing unicorn with my
- daughter, bouldering, or reading a book by my favorite authors [Nnedi Okorafor][nnedi], [David Mitchell][david], or [Dan Simmons][dan].
+I'm an anthropologist and author of speculative fiction interested in human-technology-environment relations - in particular in the messiness around the blurred boundaries between the categories. 
 
-Between October 2016 and February 2021, I was part of the research group of [Prof. Julia Verne][verne] at the [Department of Geography][geobonn]
-of the University of Bonn. Recently, I have moved with her to Uni Mainz.
-In October 2016, I defended my PhD thesis on social memory in Germany at the [Anthropology Department][utrechtanthro] at Utrecht University.
-Between 2015 and 2016, I've been working as a postdoctoral researcher at the [Chemical Youth][chem] 
-project at the [Anthropology Department][uvaanthro] of the University of Amsterdam with [Prof. Anita Hardon][anita].
+I'm currently conducting research in the DFG-funded project "Gecko Translocalities", which explores the realtionships between humans and Phelsuma day geckos in the terraristics and herpetology community in Germany, and with nature conservationists on La Réunion and Mauritius. 
+
+After stations in [Utrecht][utrechtanthro], [Amsterdam][chem], and [Bonn][geobonn], I'm currently working as a postdoctoral researcher in the research group of [Prof. Julia Verne][verne] at the Geography Department of the University of Mainz.
+
+My research has been published in various international journals. My fiction has appeared at [deutsche-science-fiction.de][dsf], and in [Exodus Magazin][exo]. One short story has been translated into Marathi and published in the literary journal <strong>Kelyane Bhashantar</strong> (Marathi translation quarterly). 
+
+My all-time favorite authors are [Tonke Dragt][tonke], [Nnedi Okorafor][nnedi], [David Mitchell][david], and [Dan Simmons][dan].
 
 
-I am also an author of speculative fiction. My short story "Ranya stürzt ab" has been published at [deutsche-science-fiction.de][dsf], and has been translated into Marathi and published in the literary journal <strong>Kelyane Bhashantar</strong> (Marathi translation quarterly). Another short story titled "Notizen zur Beobachtung von Schildkröten nach einer Bruchlandung" has appeared in [Exodus Magazin][exo]. Several other short stories and novel manusripts are a work in progress. In fiction, I like to explore the blurred boundaries of humans, animals, and technology from a creative perspective, and dive deeply into fantastic and futuristic scenarios of the what-if...
 
+
+[tonke]: https://en.wikipedia.org/wiki/Tonke_Dragt
+{:target="_blank"}
 
 [exo]: https://www.exodusmagazin.de/exodus-ausgaben/exodus-42.html
 {:target="_blank"}
